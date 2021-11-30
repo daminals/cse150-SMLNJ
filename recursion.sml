@@ -15,5 +15,4 @@ print("\n" ^ Int.toString(toon(6)) ^ "\n");
 fun fib (0) = 1 
     | fib (1) = 1
     | fib(n) = fib(n-1) + fib(n-2);
-
 print("\n" ^ Int.toString(fib(6)) ^ "\n");
