@@ -1,0 +1,1 @@
+print("I know 10 * 20 is " ^ Int.toString(10*20) ^ "\n");
